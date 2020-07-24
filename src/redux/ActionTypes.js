@@ -1,0 +1,4 @@
+export const ActionTypes = {
+    TEST_ACTION: 'TEST_ACTION',
+    TEST_ACTION_SUCCESS: 'TEST_ACTION_SUCCESS'
+};
